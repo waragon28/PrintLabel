@@ -1,0 +1,14 @@
+C:\Addons\Bancos\Vistony.Banco.BLL\obj\Debug\Vistony.Banco.BLL.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\obj\Debug\Vistony.Banco.BLL.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.BLL.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.BLL.pdb
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\SAPBusinessOneSDK.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.BO.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.DAL.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.BO.pdb
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Vistony.Banco.DAL.pdb
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\Forxap.Framework.pdb
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\obj\Debug\Vistony.Banco.BLL.dll
+F:\Percy\Addons\Bancos\Vistony.Banco.BLL\obj\Debug\Vistony.Banco.BLL.pdb

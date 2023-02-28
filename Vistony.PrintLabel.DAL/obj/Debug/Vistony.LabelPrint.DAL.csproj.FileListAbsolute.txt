@@ -1,0 +1,14 @@
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.LabelPrint.DAL.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.LabelPrint.DAL.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.LabelPrint.DAL.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.LabelPrint.DAL.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.LabelPrint.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\bin\Debug\Vistony.LabelPrint.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.DAL\obj\Debug\Vistony.LabelPrint.DAL.csprojResolveAssemblyReference.cache

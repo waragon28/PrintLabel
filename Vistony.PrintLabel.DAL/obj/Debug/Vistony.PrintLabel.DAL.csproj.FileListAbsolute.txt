@@ -1,0 +1,17 @@
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Vistony.PrintLabel.DAL.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Vistony.PrintLabel.DAL.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\RestSharp.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Vistony.PrintLabel.BO.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Forxap.Framework.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Vistony.PrintLabel.BO.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\RestSharp.xml
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\obj\Debug\Vistony.PrintLabel.DAL.csprojResolveAssemblyReference.cache
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\obj\Debug\Vistony.PrintLabel.DAL.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\obj\Debug\Vistony.PrintLabel.DAL.pdb

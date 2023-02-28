@@ -1,0 +1,5 @@
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.LabelPrint.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.LabelPrint.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.LabelPrint.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.LabelPrint.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.LabelPrint.BO.csprojResolveAssemblyReference.cache

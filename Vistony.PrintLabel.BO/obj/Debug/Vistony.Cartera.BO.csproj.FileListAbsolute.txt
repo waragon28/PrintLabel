@@ -1,0 +1,6 @@
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\bin\Debug\Vistony.Cartera.BO.dll
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\bin\Debug\Vistony.Cartera.BO.pdb
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\bin\Debug\SAPBusinessOneSDK.dll
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\obj\Debug\Vistony.Cartera.BO.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\obj\Debug\Vistony.Cartera.BO.dll
+F:\Percy\Addons\Cartera\Vistony.Cartera.BO\obj\Debug\Vistony.Cartera.BO.pdb

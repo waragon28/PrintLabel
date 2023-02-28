@@ -1,0 +1,5 @@
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\bin\Debug\Vistony.PrintLabel.BO.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\bin\Debug\Vistony.PrintLabel.BO.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\obj\Debug\Vistony.PrintLabel.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\obj\Debug\Vistony.PrintLabel.BO.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\obj\Debug\Vistony.PrintLabel.BO.pdb

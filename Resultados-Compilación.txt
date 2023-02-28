@@ -1,0 +1,121 @@
+﻿1>------ Operación Compilar iniciada: proyecto: Vistony.PrintLabel.BO, configuración: Debug Any CPU ------
+2>------ Operación Compilar iniciada: proyecto: Forxap.Framework, configuración: Debug Any CPU ------
+2>  Forxap.Framework -> D:\Framework\Forxap.Framework\bin\Debug\Forxap.Framework.dll
+1>  Vistony.PrintLabel.BO -> D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BO\bin\Debug\Vistony.PrintLabel.BO.dll
+3>------ Operación Compilar iniciada: proyecto: Vistony.PrintLabel.DAL, configuración: Debug Any CPU ------
+3>  Vistony.PrintLabel.DAL -> D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.DAL\bin\Debug\Vistony.PrintLabel.DAL.dll
+4>------ Operación Compilar iniciada: proyecto: Vistony.PrintLabel.BLL, configuración: Debug Any CPU ------
+4>  Vistony.PrintLabel.BLL -> D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.BLL\bin\Debug\Vistony.PrintLabel.BLL.dll
+5>------ Operación Compilar iniciada: proyecto: Vistony.PrintLabel.Win, configuración: Debug Any CPU ------
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(292,13,292,14): warning CS1570: El comentario XML tiene código XML con formato incorrecto: 'No se esperaba una etiqueta final en esta ubicación.'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\MainMenuEvent.cs(26,1,26,1): warning CS1570: El comentario XML tiene código XML con formato incorrecto: 'Se esperaba una etiqueta final para el elemento 'summary'.'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Configuracion\frmBase.b1f.cs(16,23,16,31): warning CS0108: 'frmBase.FormType' oculta el miembro heredado 'FormBase.FormType'. Use la palabra clave new si su intención era ocultarlo.
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Connection.cs(74,30,74,32): warning CS0168: La variable 'ex' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\FormMenuEvent.cs(52,30,52,32): warning CS0168: La variable 'ex' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\MetaData.cs(27,29,27,31): warning CS0168: La variable 'ex' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(534,40,534,46): warning CS0219: La variable 'oChild' está asignada pero su valor nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(535,50,535,59): warning CS0219: La variable 'oChildren' está asignada pero su valor nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(312,30,312,31): warning CS0168: La variable 'e' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(654,30,654,31): warning CS0168: La variable 'e' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(763,30,763,31): warning CS0168: La variable 'e' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(795,30,795,31): warning CS0168: La variable 'e' se ha declarado pero nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(18,38,18,46): warning CS0649: El campo 'BaseWizard.lblTitle' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Configuracion\frmBase.b1f.cs(14,34,14,43): warning CS0649: El campo 'frmBase.btnCancel' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(15,34,15,39): warning CS0649: El campo 'BaseUDOForm.btnOK' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\MainMenuEvent.cs(22,31,22,36): warning CS0169: El campo 'MainMenuEvent.oForm' nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(19,34,19,41): warning CS0649: El campo 'BaseUDOForm.oMatrix' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(19,38,19,51): warning CS0649: El campo 'BaseWizard.lblPageNumber' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(13,32,13,42): warning CS0649: El campo 'BaseUDOForm.activeForm' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(15,32,15,37): warning CS0649: El campo 'BaseWizard.oGrid' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Configuracion\frmBase.b1f.cs(15,34,15,41): warning CS0649: El campo 'frmBase.oMatrix' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(21,34,21,46): warning CS0649: El campo 'BaseUDOForm.fldContenido' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(22,34,22,43): warning CS0649: El campo 'BaseWizard.btnCancel' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(22,34,22,46): warning CS0649: El campo 'BaseUDOForm.fldInvisible' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Configuracion\frmBase.b1f.cs(13,34,13,39): warning CS0649: El campo 'frmBase.btnOK' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(17,34,17,43): warning CS0649: El campo 'BaseUDOForm.btnCancel' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\BaseUDOForm.b1f.cs(12,39,12,44): warning CS0649: El campo 'BaseUDOForm.oForm' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(53,24,53,31): warning CS0649: El campo 'wzdLblPrint1.Button5' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(21,34,21,41): warning CS0649: El campo 'BaseWizard.btnNext' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\BaseWizard.b1f.cs(20,34,20,42): warning CS0649: El campo 'BaseWizard.btnPrior' nunca se asigna y siempre tendrá el valor predeterminado null
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(41,24,41,31): warning CS0169: El campo 'wzdLblPrint1.Button3' nunca se usa
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\ApplicationEvents.cs(9,18,9,34): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'ApplicationEvent'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Connection.cs(15,18,15,31): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Sb1Connection'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\FormMenuEvent.cs(13,18,13,31): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'FormMenuEvent'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Globals.cs(31,30,31,34): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Sb1Globals.Path'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\MainMenuEvent.cs(19,18,19,31): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'MainMenuEvent'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\MetaData.cs(14,18,14,29): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Sb1MetaData'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(18,18,18,23): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Utils'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(67,28,67,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Utils.LoadPrinters(ref ComboBox)'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(114,26,114,33): warning CS1572: El comentario XML tiene una etiqueta param para 'tableID', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(137,26,137,33): warning CS1572: El comentario XML tiene una etiqueta param para 'tableID', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(159,26,159,33): warning CS1572: El comentario XML tiene una etiqueta param para 'tableID', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(173,26,173,33): warning CS1572: El comentario XML tiene una etiqueta param para 'tableID', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(174,83,174,91): warning CS1573: El parámetro 'bankCode' no tiene la etiqueta param correspondiente en el comentario XML para 'Utils.LoadCuentas(ref ComboBox, string)' (pero otros parámetros sí)
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(248,26,248,35): warning CS1572: El comentario XML tiene una etiqueta param para 'oComboBox', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(249,61,249,68): warning CS1573: El parámetro 'oColumn' no tiene la etiqueta param correspondiente en el comentario XML para 'Utils.LoadUsers(ref Column)' (pero otros parámetros sí)
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(340,26,340,35): warning CS1572: El comentario XML tiene una etiqueta param para 'oComboBox', pero no hay ningún parámetro con ese nombre
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(463,65,463,74): warning CS1573: El parámetro 'datatable' no tiene la etiqueta param correspondiente en el comentario XML para 'Utils.findDataTable(DataTable, string, string)' (pero otros parámetros sí)
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(463,83,463,95): warning CS1573: El parámetro 'numeroPedido' no tiene la etiqueta param correspondiente en el comentario XML para 'Utils.findDataTable(DataTable, string, string)' (pero otros parámetros sí)
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(463,105,463,116): warning CS1573: El parámetro 'lineaPedido' no tiene la etiqueta param correspondiente en el comentario XML para 'Utils.findDataTable(DataTable, string, string)' (pero otros parámetros sí)
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Utils.cs(488,30,488,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'Utils.InitConfig()'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\LayoutForms .cs(9,25,9,41): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonLayoutForms'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\LayoutForms .cs(11,29,11,37): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonLayoutForms.Label000'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\LayoutForms .cs(12,29,12,37): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonLayoutForms.Label001'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MenuItem.cs(9,18,9,31): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMenuItem'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MenuItem.cs(12,29,12,54): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMenuItem.AddonMainMenuRentabilidad'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MenuItem.cs(14,29,14,48): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMenuItem.EtiquetasLogisticas'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MenuItem.cs(15,29,15,48): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMenuItem.EtiquetasProduccion'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MenuItem.cs(16,29,16,47): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMenuItem.EtiquetasUbicacion'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(9,18,9,34): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(12,29,12,38): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.AddonName'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(14,29,14,42): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.SAPNotRunning'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(16,29,16,41): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.StartLoading'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(17,29,17,42): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.FinishLoading'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(19,29,19,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.Message001'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(20,29,20,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.Message003'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(21,29,21,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.Message004'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(22,29,22,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.Message005'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\MessageInfo.cs(23,29,23,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonMessageInfo.Message006'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(11,18,11,32): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(13,29,13,38): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserMenus'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(14,29,14,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserTables'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(15,29,15,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserFields'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(16,29,16,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserObjects'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(17,29,17,43): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserProcedures'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(18,29,18,44): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserPermissions'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(19,29,19,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.UserScripts'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(22,29,22,33): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.Icon'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserFile.cs(23,29,23,35): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserFiles.Wizard'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserObjects.cs(9,18,9,34): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserObjects'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserObjects.cs(11,29,11,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserObjects.oOrdenPesca'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserObjects.cs(12,29,12,41): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserObjects.oEmbarcacion'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserObjects.cs(13,29,13,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserObjects.oCapitanes'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(9,18,9,33): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(12,29,12,38): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.TipoPesca'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(13,29,13,44): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.TipoEmbarcacion'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(14,29,14,38): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Toneladas'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(15,29,15,43): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.PuertoEmbarque'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(16,29,16,42): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.AparejosPesca'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(20,29,20,38): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Capitanes'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(21,29,21,37): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Especies'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(22,29,22,35): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Barcos'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(23,29,23,36): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Barcos1'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(24,29,24,35): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Barco2'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(27,29,27,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.OrdenPesca'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(28,29,28,40): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.OrdenPesca1'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(31,29,31,35): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Series'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\UserTables.cs(32,29,32,36): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonUserTables.Series1'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(9,26,9,39): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(16,30,16,46): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms.frmTipoDocumento'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(17,30,17,42): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms.frmCapitanes'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(18,30,18,41): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms.frmEspecies'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(20,30,20,46): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms.frmEmbarcaciones'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Constans\WinForms.cs(21,30,21,43): warning CS1591: Falta el comentario XML para el tipo o miembro visible de forma pública 'AddonWinForms.frmOrdenPesca'
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint2.b1f.cs(143,17,143,18): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Asistentes\wzdLblPrint1.b1f.cs(179,17,179,18): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Connection.cs(56,40,56,41): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Program.cs(38,17,38,18): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Program.cs(40,17,40,18): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\Program.cs(42,17,42,18): warning CS1587: El comentario XML no está situado en un elemento válido del idioma
+5>  Vistony.PrintLabel.Win -> D:\Desarrollo\WMS\PrintLabel\Vistony.PrintLabel.Win\bin\Debug\PrintLabel.exe
+========== Compilar: 5 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

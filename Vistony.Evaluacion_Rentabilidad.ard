@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="Vistony_PE" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="Label  Print" ExtVersion="2.0.0" Contdata="consultor1@nogasa.com.pe" Partner="TI Vistony" DBType="HANA" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Vistony.AddonName.Win.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Vistony.AddonName.Win.exe">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Forxap.Framework.dll">
+              <Actions />
+            </File>
+            <File FileName="Forxap.Framework.ServiceLayer.dll">
+              <Actions />
+            </File>
+            <File FileName="Forxap.Framework.Utils.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.BO.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.DAL.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.b1s">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.exe">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.BO.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.DAL.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.b1s">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.exe">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Files\UserMenus.xml">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Forxap.Framework.dll">
+              <Actions />
+            </File>
+            <File FileName="Forxap.Framework.ServiceLayer.dll">
+              <Actions />
+            </File>
+            <File FileName="Forxap.Framework.Utils.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="RestSharp.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.BO.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.DAL.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.b1s">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.exe">
+              <Actions />
+            </File>
+            <File FileName="Vistony.AddonName.Win.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.BO.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.DAL.dll">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.b1s">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.exe">
+              <Actions />
+            </File>
+            <File FileName="Vistony.Cartera.UI.Win.exe.config">
+              <Actions />
+            </File>
+            <File FileName="Files\UserMenus.xml">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

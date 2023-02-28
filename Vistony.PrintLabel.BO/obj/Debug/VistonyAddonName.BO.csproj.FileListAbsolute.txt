@@ -1,0 +1,57 @@
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+F:\Percy\Addons\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\VistonyAddonName.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.BO\obj\Debug\Vistony.AddonName.BO.pdb

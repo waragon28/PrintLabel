@@ -1,0 +1,195 @@
+F:\Percy\Addons\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+F:\Percy\Addons\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+F:\Percy\Addons\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Newtonsoft.Json.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+F:\Percy\Addons\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+F:\Percy\Addons\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+F:\Percy\Addons\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\AddRotulado\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+C:\Users\waragon\Desktop\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\William\AddonsPlanemiento\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+C:\Users\waragon\Desktop\Template\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\William\Evaluacion de Rentabilidad  de Reparto\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\bin\Debug\RestSharp.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto - copia\Template\Vistony.AddonName.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Newtonsoft.Json.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.xml
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\William\Evaluacion de Rentabilidad  de Reparto\Evaluacion de Rentabilidad  de Reparto\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.xml
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache
+D:\Pier\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe.config
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.xml
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.exe
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.Win.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Forxap.Framework.Utils.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.dll
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.BO.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\Vistony.AddonName.DAL.pdb
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.Properties.Resources.resources
+D:\Desarrollo\LabelPrint\Vistony.Evaluacion_Rentabilidad.Win\obj\Debug\Vistony.AddonName.Win.csproj.GenerateResource.Cache

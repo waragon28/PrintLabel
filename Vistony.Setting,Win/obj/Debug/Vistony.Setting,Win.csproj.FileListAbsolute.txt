@@ -1,0 +1,14 @@
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Vistony.Setting,Win.exe
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Vistony.Setting,Win.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Forxap.Framework.ServiceLayer.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\RestSharp.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Newtonsoft.Json.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Forxap.Framework.ServiceLayer.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\Forxap.Framework.pdb
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\bin\Debug\RestSharp.xml
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\obj\Debug\Vistony.Setting,Win.csprojResolveAssemblyReference.cache
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\obj\Debug\Vistony.Setting,Win.exe
+D:\Desarrollo\WMS\PrintLabel\Vistony.Setting,Win\obj\Debug\Vistony.Setting,Win.pdb

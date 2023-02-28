@@ -1,0 +1,15 @@
+<Application>
+  <Menus>
+    <action type="add">
+
+      <!-- Menu del Add0n Label Print-->
+
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Image=""  Position="12" String="WMS" Type="2" UniqueID="vis_wms"> </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="vis_wms" Image=""  String="Impresión de etiquetas" Type="2" UniqueID="vis_LbllPrint"> </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="vis_LbllPrint" Image=""  String="Etiquetas de procesos logísticos" Type="1" UniqueID="vis_LbllPrint1"> </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="vis_LbllPrint" Image=""  String="Etiquetas de producción" Type="1" UniqueID="vis_LbllPrint2"> </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="vis_LbllPrint" Image=""  String="Etiquetas de ubicaciones" Type="1" UniqueID="vis_LbllPrint3"> </Menu>
+
+    </action>
+  </Menus>
+</Application>

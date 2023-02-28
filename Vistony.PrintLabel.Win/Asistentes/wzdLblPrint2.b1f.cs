@@ -465,13 +465,12 @@ namespace Vistony.PrintLabel.Win.Asistentes
             docEntry = Grid0.DataTable.GetInt("DocEntry", row);
             LineaData lineData = new LineaData();
 
-            lineData.ItemCode = Grid0.DataTable.GetString("Producto", row);
+            lineData.SSCC = Grid0.DataTable.GetString("SSCC", row);
             lineData.ItemName = Grid0.DataTable.GetString("Descripcion", row);
             int CantidaImpresion = Convert.ToInt32(EditText3.Value);
-            lineData.numero = Convert.ToInt32(Grid0.DataTable.GetInt("CantidadPlanificada", row)) * CantidaImpresion;
-            lineData.lote = Grid0.DataTable.GetString("NumeroMezcla", row);
+            lineData.Cantidad = Convert.ToInt32(Grid0.DataTable.GetInt("Cantidad SSCC", row)) * CantidaImpresion;
+            lineData.lote = Grid0.DataTable.GetString("Numero Mezcla", row);
             lineData.fecha = Convert.ToDateTime(Grid0.DataTable.GetString("FechaOF", row)).ToString("MM/yyyy");
-            lineData.unidadMedida = Grid0.DataTable.GetString("UMD", row);
             lineData.ipAddress = printer.IPAdress;
             lineData.portNumber = printer.PortNumber;
 

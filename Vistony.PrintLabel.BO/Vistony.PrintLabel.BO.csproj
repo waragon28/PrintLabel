@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Label.cs" />
-    <Compile Include="LineaData.cs" />
+    <Compile Include="LineaData_D.cs" />
+    <Compile Include="LineaData_C.cs" />
     <Compile Include="Printer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WorkOrder.cs" />

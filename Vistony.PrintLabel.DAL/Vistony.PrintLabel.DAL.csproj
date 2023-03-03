@@ -70,11 +70,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Framework\Forxap.Framework.ServiceLayer\Forxap.Framework.ServiceLayer.csproj">
+    <ProjectReference Include="..\Forxap.Framework.ServiceLayer\Forxap.Framework.ServiceLayer.csproj">
       <Project>{9b41a12d-b8d0-4607-8c26-3efb4eb9c2af}</Project>
       <Name>Forxap.Framework.ServiceLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\..\Framework\Forxap.Framework\Forxap.Framework.csproj">
+    <ProjectReference Include="..\Forxap.Framework\Forxap.Framework.csproj">
       <Project>{b4fcb577-e8ea-4c31-bab9-2747d6ed2cf7}</Project>
       <Name>Forxap.Framework</Name>
     </ProjectReference>

@@ -52,10 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Framework\Forxap.Framework\Forxap.Framework.csproj">
-      <Project>{b4fcb577-e8ea-4c31-bab9-2747d6ed2cf7}</Project>
-      <Name>Forxap.Framework</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Vistony.PrintLabel.BO\Vistony.PrintLabel.BO.csproj">
       <Project>{939fe266-735b-4a4c-a5f2-696cd98a1270}</Project>
       <Name>Vistony.PrintLabel.BO</Name>

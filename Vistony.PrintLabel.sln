@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistony.PrintLabel.BO", "Vistony.PrintLabel.BO\Vistony.PrintLabel.BO.csproj", "{939FE266-735B-4A4C-A5F2-696CD98A1270}"
 EndProject
@@ -11,11 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistony.PrintLabel.BLL", "V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistony.PrintLabel.Win", "Vistony.PrintLabel.Win\Vistony.PrintLabel.Win.csproj", "{6014541C-7256-42EF-99C0-A87035730D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forxap.Framework", "..\..\..\Framework\Forxap.Framework\Forxap.Framework.csproj", "{B4FCB577-E8EA-4C31-BAB9-2747D6ED2CF7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forxap.Framework.ServiceLayer", "..\..\..\Framework\Forxap.Framework.ServiceLayer\Forxap.Framework.ServiceLayer.csproj", "{9B41A12D-B8D0-4607-8C26-3EFB4EB9C2AF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistony.Setting,Win", "Vistony.Setting,Win\Vistony.Setting,Win.csproj", "{4C3144ED-FDFF-4703-BA7F-8C56428312E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forxap.Framework", "Forxap.Framework\Forxap.Framework.csproj", "{B4FCB577-E8EA-4C31-BAB9-2747D6ED2CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forxap.Framework.ServiceLayer", "Forxap.Framework.ServiceLayer\Forxap.Framework.ServiceLayer.csproj", "{9B41A12D-B8D0-4607-8C26-3EFB4EB9C2AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +39,10 @@ Global
 		{6014541C-7256-42EF-99C0-A87035730D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6014541C-7256-42EF-99C0-A87035730D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6014541C-7256-42EF-99C0-A87035730D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4FCB577-E8EA-4C31-BAB9-2747D6ED2CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B4FCB577-E8EA-4C31-BAB9-2747D6ED2CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4FCB577-E8EA-4C31-BAB9-2747D6ED2CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -47,10 +51,6 @@ Global
 		{9B41A12D-B8D0-4607-8C26-3EFB4EB9C2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B41A12D-B8D0-4607-8C26-3EFB4EB9C2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B41A12D-B8D0-4607-8C26-3EFB4EB9C2AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C3144ED-FDFF-4703-BA7F-8C56428312E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

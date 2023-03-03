@@ -55,7 +55,6 @@ namespace Vistony.PrintLabel.DAL
                 dynamic jsonData = JsonConvert.SerializeObject(jsonBody);
                 response = methods.PATCH("ProductionOrders", docEntry, jsonData);
                 dynamic m = JsonConvert.DeserializeObject(response.Content.ToString());
-                string rpta = m.ToString();
                 if (response.StatusCode.ToString() == "NoContent")
                 {
                     return "Actualizado correctamente";

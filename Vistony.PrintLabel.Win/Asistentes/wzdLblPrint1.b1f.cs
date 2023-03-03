@@ -86,7 +86,34 @@ namespace Vistony.PrintLabel.Win.Asistentes
         public wzdLblPrint1()
         {
         }
+        public LineaData_C lineaData_C(Printer printer)
+        {
+            LineaData_C cabecera = new LineaData_C();
+            cabecera.ipAddress = printer.IPAdress;
+            cabecera.flag = "Zebra_QR";
+            cabecera.portNumber = printer.PortNumber;
+            cabecera.lineaData = ObtenerDetalle(printer);
+            return cabecera;
+        }
 
+        public List<LineaData_D> ObtenerDetalle(Printer printer)
+        {
+            List<LineaData_D> LineaData_D = new List<LineaData_D>();
+
+          
+                    LineaData_D objLineaData_D = new LineaData_D();
+                    objLineaData_D.ssccName = "";
+                    objLineaData_D.itemCode = EditText0.Value;
+                    objLineaData_D.itemName = EditText9.Value;
+                    objLineaData_D.numero = Convert.ToInt32(EditText11.Value);
+                    objLineaData_D.lote = EditText12.GetString();
+                    objLineaData_D.fecha =EditText13.GetString();
+                    objLineaData_D.unidadMedida = EditText10.GetString();
+
+                    LineaData_D.Add(objLineaData_D);
+            
+            return LineaData_D;
+        }
 
         private void EjecucionSegundoPlano()
         {
@@ -111,9 +138,6 @@ namespace Vistony.PrintLabel.Win.Asistentes
             //  02: obtengo los datos de la impresora donde desean imprimir
             printer = Utils.LoadPrinter(ComboBox1.GetSelectedValue());
 
-
-
-
             if (EditText9.Value.Length > 0)
             {
                 if (1 == 1/*EditText4.Value.Length > 0*/)
@@ -124,25 +148,13 @@ namespace Vistony.PrintLabel.Win.Asistentes
                         recordset = (Recordset)Sb1Globals.oCompany.GetBusinessObject(SAPbobsCOM.BoObjectTypes.BoRecordset);
                         if (number > 0)
                         {
-                            LineData lineData = new LineData();
-
-                            //string url = string.Format("/b1s/v1/Items('{0}')?$select= ItemCode, ItemName, Properties8", EditText0.Value);
-                            
-
-                            lineData.ItemCode = EditText0.Value;
-                            lineData.ItemName = EditText9.Value;
-                            lineData.numero = Convert.ToInt32(number);
-                            lineData.lote = EditText12.Value;
-                            lineData.fecha = EditText13.Value;
-                            lineData.unidadMedida = EditText10.Value;
-                            lineData.ipAddress = printer.IPAdress;
-                            lineData.portNumber = printer.PortNumber;
-
                             string endPointService = ConfigurationManager.AppSettings["Zebra.Api"].ToString();
 
                             RestClient client = new RestClient(endPointService);
                             RestRequest request = new RestRequest(Method.POST);
-                            string JsonObtenerCabezera = JsonConvert.SerializeObject(lineData);
+                            LineaData_C ObtenerCabecera = lineaData_C(printer);
+
+                            string JsonObtenerCabezera = JsonConvert.SerializeObject(ObtenerCabecera);
                             string dataReq = JsonObtenerCabezera;
                             IRestResponse result = client.Execute(request.AddJsonBody(dataReq));
 
@@ -161,7 +173,7 @@ namespace Vistony.PrintLabel.Win.Asistentes
                         }
 
                     }
-                    catch
+                    catch(Exception ex)
                     {
                         Sb1Messages.ShowError("LabelPrint:: Ocurrio un error de conversión en la cantidad.");
                     }

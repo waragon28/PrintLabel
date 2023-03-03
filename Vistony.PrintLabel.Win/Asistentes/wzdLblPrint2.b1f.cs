@@ -428,92 +428,133 @@ namespace Vistony.PrintLabel.Win.Asistentes
             // 03: recorrre la grilla verificando cuales fueron los seleccionados
             if (OptionBtn0.Selected)
             {
-                for (int row = 0; row < Grid0.DataTable.Rows.Count; row++)
-                {
-                    isSelected = Grid0.DataTable.GetString("Marcar", row);
+                 //   isSelected = Grid0.DataTable.GetString("Marcar", row);
 
                     // si el registro esta selecccionado, entonces imprimo
-                    if (isSelected == "Y")
-                        PrintWO(row, printer);
-
-                }
+                    //if (isSelected == "Y")
+                    PrintWO(printer);
             }
 
             else if (OptionBtn1.Selected)
             {
                 // te lleva al panel de impresión de SSCC
-                 for (int row = 0; row < Grid0.DataTable.Rows.Count; row++)
+                //   for (int row = 0; row < Grid0.DataTable.Rows.Count; row++)
+                // {
+
+                PrintWO2(printer);
+
+               // }
+
+            }
+
+
+
+        }
+
+        private void PrintWO2(Printer printer)
+        {
+            // envia los datos a la API, para que se proceda a Imprimir
+            // si imprimio de manera correcta debo Actuaizar la Orden de Producción
+            if (SendToAPISSCC(lineaData_C(printer)))
+            {
+                for (int row1 = 0; row1 < Grid0.Rows.Count; row1++)
                 {
-                    isSelected = Grid0.DataTable.GetString("Marcar", row);
+                    if (Grid0.DataTable.GetString("Marcar", row1) == "Y")
+                    {
+                        UpdateWO(Convert.ToInt32(Grid0.DataTable.GetString("DocEntry", row1)));
+                    }
+                }
+            }
 
-                    // si el registro esta selecccionado, entonces imprimo
-                    if (isSelected == "Y")
-                        PrintWO2(row, printer);
+        }
 
+        public LineaData_C lineaData_C(Printer printer)
+        {
+            LineaData_C cabecera = new LineaData_C();
+            cabecera.ipAddress = printer.IPAdress;
+            cabecera.portNumber = printer.PortNumber;
+
+            cabecera.lineaData = ObtenerDetalle(printer);
+            return cabecera;
+        }
+
+        public List<LineaData_D>  ObtenerDetalle(Printer printer)
+        {
+            List<LineaData_D> LineaData_D = new List<LineaData_D>();
+
+            for (int row = 0; row < Grid0.Rows.Count; row++)
+            {
+                if (Grid0.DataTable.GetString("Marcar", row)=="Y")
+                {
+                    LineaData_D objLineaData_D = new LineaData_D();
+                    objLineaData_D.ssccName = Grid0.DataTable.GetString("NameSSCC", row).Substring(0, 19);
+                    objLineaData_D.itemCode = Grid0.DataTable.GetString("Producto", row);
+                    objLineaData_D.itemName = Grid0.DataTable.GetString("Descripcion", row);
+                    int CantidaImpresion = Convert.ToInt32(EditText3.Value);
+                    objLineaData_D.numero = Convert.ToInt32(Grid0.DataTable.GetString("Cantidad SSCC", row));
+                    objLineaData_D.lote = Grid0.DataTable.GetString("Numero Mezcla", row);
+                    objLineaData_D.fecha = Convert.ToDateTime(Grid0.DataTable.GetString("FechaOF", row)).ToString("MM/yyyy");
+                    objLineaData_D.unidadMedida = Grid0.DataTable.GetString("UMD", row);
+                    LineaData_D.Add(objLineaData_D);
+                }
+               
+            }
+            return LineaData_D;
+        }
+
+
+
+        private void PrintWO(Printer printer)
+        {
+            if (SendToAPISSCC(lineaData_C_Uni(printer)))
+            {
+                for (int row1 = 0; row1 < Grid0.Rows.Count; row1++)
+                {
+                    if (Grid0.DataTable.GetString("Marcar", row1) == "Y")
+                    {
+                        UpdateWO(Convert.ToInt32(Grid0.DataTable.GetString("DocEntry", row1)));
+
+                    }
+                }
+            }
+
+        }
+
+
+        public LineaData_C lineaData_C_Uni(Printer printer)
+        {
+            LineaData_C cabecera = new LineaData_C();
+            cabecera.ipAddress = printer.IPAdress;
+            cabecera.portNumber = printer.PortNumber;
+            cabecera.flag = "Zebra_QR";
+
+            cabecera.lineaData = ObtenerDetalle_Uni(Grid0, printer);
+            return cabecera;
+        }
+
+        public List<LineaData_D> ObtenerDetalle_Uni(Grid Grid0, Printer printer)
+        {
+            List<LineaData_D> LineaData_D = new List<LineaData_D>();
+
+            for (int row = 0; row < Grid0.Rows.Count; row++)
+            {
+                if (Grid0.DataTable.GetString("Marcar", row) == "Y")
+                {
+                    LineaData_D objLineaData_D = new LineaData_D();
+                    objLineaData_D.ssccName = "";
+                    objLineaData_D.itemCode = Grid0.DataTable.GetString("Producto", row);
+                    objLineaData_D.itemName = Grid0.DataTable.GetString("Descripcion", row);
+                    int CantidaImpresion = Convert.ToInt32(EditText3.Value);
+                    objLineaData_D.numero = Convert.ToInt32(Grid0.DataTable.GetString("CantidadPlanificada", row));
+                    objLineaData_D.lote = Grid0.DataTable.GetString("NumeroMezcla", row);
+                    objLineaData_D.fecha = Convert.ToDateTime(Grid0.DataTable.GetString("FechaOF", row)).ToString("MM/yyyy");
+                    objLineaData_D.unidadMedida = Grid0.DataTable.GetString("UMD", row);
+                    LineaData_D.Add(objLineaData_D);
                 }
 
             }
-
-
-
+            return LineaData_D;
         }
-
-        private void PrintWO2(int row, Printer printer)
-        {
-            int? docEntry = 0;
-
-            docEntry = Grid0.DataTable.GetInt("DocEntry", row);
-            LineaData lineData = new LineaData();
-
-            lineData.SSCC = Grid0.DataTable.GetString("SSCC", row);
-            lineData.Name = Grid0.DataTable.GetString("NameSSCC", row);
-            lineData.ItemCode = Grid0.DataTable.GetString("Producto", row);
-            lineData.ItemName = Grid0.DataTable.GetString("Descripcion", row);
-            int CantidaImpresion = Convert.ToInt32(EditText3.Value);
-            lineData.numero = /*Convert.ToInt32(Grid0.DataTable.GetInt("CantidadPlanificada", row)) * */ CantidaImpresion;
-            lineData.lote = Grid0.DataTable.GetString("Numero Mezcla", row);
-            lineData.Cantidad = Convert.ToInt32(Grid0.DataTable.GetString("Cantidad SSCC", row));
-            lineData.fecha = Convert.ToDateTime(Grid0.DataTable.GetString("FechaOF", row)).ToString("MM/yyyy");
-            lineData.unidadMedida = Grid0.DataTable.GetString("UMD", row);
-            lineData.ipAddress = printer.IPAdress;
-            lineData.portNumber = printer.PortNumber;
-
-            // envia los datos a la API, para que se proceda a Imprimir
-            // si imprimio de manera correcta debo Actuaizar la Orden de Producción
-            if (SendToAPISSCC(lineData))
-            {
-                UpdateWO(docEntry);
-            }
-
-        }
-
-        private void PrintWO(int row , Printer printer)
-        {
-            int? docEntry = 0;
-
-            docEntry = Grid0.DataTable.GetInt("DocEntry", row);
-
-            LineData lineData = new LineData();
-
-            lineData.ItemCode = Grid0.DataTable.GetString("Producto", row);
-            lineData.ItemName = Grid0.DataTable.GetString("Descripcion", row);
-            int CantidaImpresion =Convert.ToInt32(EditText3.Value);
-            lineData.numero =Convert.ToInt32(Grid0.DataTable.GetInt("CantidadPlanificada", row)) * CantidaImpresion;
-            lineData.lote = Grid0.DataTable.GetString("NumeroMezcla", row);
-            lineData.fecha = Convert.ToDateTime(Grid0.DataTable.GetString("FechaOF", row)).ToString("MM/yyyy");
-            lineData.unidadMedida = Grid0.DataTable.GetString("UMD", row);
-            lineData.ipAddress = printer.IPAdress;
-            lineData.portNumber = printer.PortNumber;
-
-            // envia los datos a la API, para que se proceda a Imprimir
-            // si imprimio de manera correcta debo Actuaizar la Orden de Producción
-            if ( SendToAPI(lineData))
-             {
-                UpdateWO(docEntry);
-             }
-
-        }
-
         private bool Validate ()
         {
             bool ret = true;
@@ -527,7 +568,34 @@ namespace Vistony.PrintLabel.Win.Asistentes
             return ret;
         }
 
-        private bool  SendToAPI (LineData lineData)
+        //private bool  SendToAPI (LineData lineData)
+        //{
+        //    bool ret = false;
+        //    string endPointService = ConfigurationManager.AppSettings["Zebra.Api"].ToString();
+
+        //    RestClient client = new RestClient(endPointService);
+        //    RestRequest request = new RestRequest(Method.POST);
+        //    string JsonObtenerCabezera = JsonConvert.SerializeObject(lineData);
+        //    string dataReq = JsonObtenerCabezera;
+        //    IRestResponse result = client.Execute(request.AddJsonBody(dataReq));
+
+        //    if (result.StatusDescription == "OK")
+        //    {
+        //        Sb1Messages.ShowMessage(AddonMessageInfo.Message009);
+        //        Sb1Messages.ShowMessage(string.Format(AddonMessageInfo.Message010,lineData.lote));
+        //        ret = true;
+
+        //    }
+        //    else
+        //    {
+        //        Sb1Messages.ShowError(AddonMessageInfo.Message008);
+        //        ret = false;
+        //    }
+
+        //    return ret;
+        //}
+
+        private bool SendToAPISSCC(LineaData_C lineData)
         {
             bool ret = false;
             string endPointService = ConfigurationManager.AppSettings["Zebra.Api"].ToString();
@@ -541,34 +609,7 @@ namespace Vistony.PrintLabel.Win.Asistentes
             if (result.StatusDescription == "OK")
             {
                 Sb1Messages.ShowMessage(AddonMessageInfo.Message009);
-                Sb1Messages.ShowMessage(string.Format(AddonMessageInfo.Message010,lineData.lote));
-                ret = true;
-
-            }
-            else
-            {
-                Sb1Messages.ShowError(AddonMessageInfo.Message008);
-                ret = false;
-            }
-
-            return ret;
-        }
-
-        private bool SendToAPISSCC(LineaData lineData)
-        {
-            bool ret = false;
-            string endPointService = ConfigurationManager.AppSettings["Zebra.Api"].ToString();
-
-            RestClient client = new RestClient(endPointService);
-            RestRequest request = new RestRequest(Method.POST);
-            string JsonObtenerCabezera = JsonConvert.SerializeObject(lineData);
-            string dataReq = JsonObtenerCabezera;
-            IRestResponse result = client.Execute(request.AddJsonBody(dataReq));
-
-            if (result.StatusDescription == "OK")
-            {
-                Sb1Messages.ShowMessage(AddonMessageInfo.Message009);
-                Sb1Messages.ShowMessage(string.Format(AddonMessageInfo.Message010, lineData.lote));
+                //Sb1Messages.ShowMessage(string.Format(AddonMessageInfo.Message010, lineData.lote));
                 ret = true;
 
             }
